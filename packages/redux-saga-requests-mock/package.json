@@ -1,5 +1,5 @@
 {
-  "name": "klis87-test-1",
+  "name": "@darnok87/klis87-test-1",
   "version": "0.2.0",
   "description": "Mocking driver for Redux-Saga-Requests, Redux-Saga addon to simplify AJAX requests",
   "main": "lib/index.js",
@@ -63,5 +63,8 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
