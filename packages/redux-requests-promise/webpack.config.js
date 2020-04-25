@@ -1,6 +1,6 @@
 module.exports = {
   output: {
-    library: 'ReduxSagaRequestsMock',
+    library: 'ReduxRequestsPromise',
     libraryTarget: 'umd',
   },
   module: {
